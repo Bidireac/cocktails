@@ -1,5 +1,5 @@
-# Fake Store
-> E-commerce website using Firebase and Redux
+# Be your own bartender
+> A web page designed to explore your inner bartender skills, where you can get inspired to try things at the comfort of your home.
 
 ## Table of Contents
 * [General info](#general-info)
@@ -28,4 +28,4 @@ Project is:  _finished
 
 ## Live Demo
 
-https://fake-store-live.herokuapp.com/
+https://razvan-cocktails.herokuapp.com/
